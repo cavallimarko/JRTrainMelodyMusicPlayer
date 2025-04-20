@@ -1,0 +1,6 @@
+connect sd card
+convert music
+connect speaker
+play music
+list all files
+play pause next using buttons

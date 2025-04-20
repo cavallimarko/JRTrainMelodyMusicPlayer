@@ -1,0 +1,6 @@
+https://www.instructables.com/Audio-Playback-From-SD-Card-With-Arduino/
+https://github.com/isramos/mico-shield/tree/44cd0814f695d19e11e0fea74c5257851ca8e7b1/libraries/SimpleSDAudio
+
+https://www.hackerspace-ffm.de/wiki/index.php?title=SimpleSDAudio
+https://github.com/TMRh20/TMRpcm/wiki
+https://quartzcomponents.com/blogs/electronics-projects/arduino-music-player-with-amplify-audio-using-lm386
