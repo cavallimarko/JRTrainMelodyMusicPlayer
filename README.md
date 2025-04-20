@@ -11,6 +11,13 @@ A simple Arduino-based music player for Japanese Railway train melodies and stat
 - Dynamic file loading system (loads new files after playing through current set)
 - Works with a variety of audio formats common to train station melodies
 
+
+
+https://github.com/user-attachments/assets/fb6402e9-6241-4a65-a071-f989425eb86b
+
+
+
+
 ## Hardware Requirements
 
 - Arduino board (Uno or similar)
